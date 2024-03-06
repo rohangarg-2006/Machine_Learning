@@ -1,0 +1,1 @@
+The above project on Machine Learning includes the different Machine Learning algorithms including Linear Regression, Polynomial Regression, Logistic Regression, Artificial Neural Network, K-Nearest Neighbours KNN, K-means Clustering with their training and testing on some given datasets.
